@@ -21,4 +21,7 @@
            "duration" :"duration2",
            "thumbnail":"thumbnails2"
        }
-    ]}
+    ],
+    "profile": {
+    "name": "typicode"
+  }}
