@@ -1,8 +1,8 @@
 {
   "events": [
-    { "id": 1, "title": "MagicMike" },
-    { "id": 2, "title": "MyEvent" },
-    { "id": 3, "title": "LittlPony" }
+    { "id": 1, "title": "MagicMike", "startDate":"29-03.2022", "endDate":"31-03-2022" },
+    { "id": 2, "title": "MyEvent", "startDate":"12-04.2022", "endDate":"13-04-2022" },
+    { "id": 3, "title": "LittlPony", "startDate":"30-03.2022", "endDate":"31-03-2022" }
   ],
 
   "profile": {
