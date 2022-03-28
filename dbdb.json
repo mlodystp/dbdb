@@ -1,0 +1,24 @@
+  {"events":[   {   "id":1,
+           "title": "titleofevent",
+           "start_Date": "date",
+           "end_Date":"enddate",
+           "duration" :"duration",
+           "thumbnail":"thumbnails"
+       },
+       {
+            "id":2,
+           "title": "titleofevent1",
+           "start_Date": "date1",
+           "end_Date":"enddate1",
+           "duration" :"duration1",
+           "thumbnail":"thumbnails1"
+       },
+       {
+         "id":3,
+           "title": "titleofevent2",
+           "start_Date": "date2",
+           "end_Date":"enddate2",
+           "duration" :"duration2",
+           "thumbnail":"thumbnails2"
+       }
+    ]}
